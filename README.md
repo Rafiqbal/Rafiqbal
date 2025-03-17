@@ -31,8 +31,8 @@ I am a **Mechanical Engineering graduate** currently pursuing my **Master’s in
 📌 **Advanced SQL & Data Warehousing** – Optimizing queries and database design.  
 
 ## 📫 Connect with Me  
-🔗 **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
-🔗 **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)  
+🔗 **GitHub:** [github.com/YourUsername](https://github.com/Rafiqbal)  
+🔗 **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/rafiqbal)  
 🔗 **Portfolio Website (Coming Soon!)**  
 
 💡 **“Data is the new oil, but it’s crude until you refine it into insights!”**  
