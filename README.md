@@ -13,15 +13,15 @@ I am a **Mechanical Engineering graduate** currently pursuing my **Master’s in
 📌 **Programming:** Python | SQL | Bash  
 
 ## 📂 Featured Projects  
-### 🔹 [GCP Climate Data Pipeline](https://github.com/YourUsername/GCP-Climate-Data-Pipeline)  
+### 🔹 [GCP Climate Data Pipeline](https://github.com/Rafiqbal/GCP-Climate-Data-Pipeline)  
 ✅ Built an **end-to-end data pipeline** on **Google Cloud** (GCS, Data Fusion, BigQuery, Looker Studio).  
 ✅ Ingested **climate change datasets** and performed analysis on **CO2 emissions, temperature trends, and deforestation**.  
 
-### 🔹 [Apache Spark ETL Project](https://github.com/YourUsername/Apache-Spark-Data-Processing)  
+### 🔹 [Apache Spark ETL Project](https://github.com/Rafiqbal/Apache-Spark-Data-Processing)  
 ✅ Processed **millions of records** using **PySpark & Hadoop**.  
 ✅ Performed **batch processing & transformation** on structured and semi-structured data.  
 
-### 🔹 [SQL Data Warehouse Project](https://github.com/YourUsername/SQL-Data-Warehouse-Project)  
+### 🔹 [SQL Data Warehouse Project](https://github.com/Rafiqbal/SQL-Data-Warehouse-Project)  
 ✅ Designed a **relational database schema** and optimized **complex SQL queries**.  
 ✅ Created a **data warehouse for analytics** with PostgreSQL & BigQuery.  
 
