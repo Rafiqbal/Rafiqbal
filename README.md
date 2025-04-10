@@ -35,7 +35,7 @@ I am a **Mechanical Engineering graduate** currently pursuing my **Master’s in
 
 ## 📫 Connect with Me  
 🔗 **GitHub:** [github.com/Rafiqbal](https://github.com/Rafiqbal)  
-🔗 **LinkedIn:** [linkedin.com/in/Rafiqbal](https://linkedin.com/in/rafiqbal)  
+🔗 **LinkedIn:** [linkedin.com/in/Rafiqbal](https://linkedin.com/in/rafiqbal)
  
 
 💡 **“Data is the new oil, but it’s crude until you refine it into insights!”**  
