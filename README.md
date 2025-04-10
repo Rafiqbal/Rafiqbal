@@ -13,15 +13,15 @@ I am a **Mechanical Engineering graduate** currently pursuing my **Master’s in
 📌 **Programming:** Python | SQL | Bash  
 
 ## 📂 Featured Projects  
-### 🔹 [GCP Climate Data Pipeline]([https://github.com/Rafiqbal/GCP-Climate-Data-Pipeline](https://github.com/Rafiqbal/AssesingClimateTrendsUsingGoogleCloudPlatform))
+### 🔹 [GCP Climate Data Pipeline](https://github.com/Rafiqbal/AssesingClimateTrendsUsingGoogleCloudPlatform)
 ✅ Built an **end-to-end data pipeline** on **Google Cloud** (GCS, Data Fusion, BigQuery, Looker Studio).  
 ✅ Ingested **climate change datasets** and performed analysis on **CO2 emissions, temperature trends, and deforestation**.  
 
-### 🔹 [Apache Spark ETL Project]([https://github.com/Rafiqbal/Apache-Spark-Data-Processing](https://github.com/Rafiqbal/Big-Data-Using-Hadoop-and-Spark))  
+### 🔹 [Apache Spark ETL Project](https://github.com/Rafiqbal/Apache-Spark-Data-Processing)  
 ✅ Processed **millions of records** using **PySpark & Hadoop**.  
 ✅ Performed **batch processing & transformation** on structured and semi-structured data.  
 
-### 🔹 [Vancouver Crime Prediction Using Machine Learning]([https://github.com/Rafiqbal/SQL-Data-Warehouse-Project](https://github.com/Rafiqbal/Vancouver-Crime-Prediction-Using-Machine-Learning))  
+### 🔹 [Vancouver Crime Prediction Using Machine Learning](https://github.com/Rafiqbal/Vancouver-Crime-Prediction-Using-Machine-Learning)  
 ✅ Data Cleaning & Preprocessing (handling missing values, feature engineering)
 ✅ Exploratory Data Analysis (EDA) (crime trends, time-based patterns, high-crime areas)
 ✅ Machine Learning Classification (Random Forest, Decision Tree, XGBoost, KNN)
